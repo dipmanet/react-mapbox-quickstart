@@ -37,4 +37,5 @@
   display:inline-flex;
   flex-direction: column;
   justify-content: baseline;
+  overflow-wrap: break-word;
 }
